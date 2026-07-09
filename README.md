@@ -72,9 +72,20 @@ The application displays:
 
 ## Screenshots
 Preview Output Images
-![Output 1](screenshots/Output 1.png)
-![Output 2](screenshots/Output 2.png)
-![Output 3](screenshots/Output 3.png)
+
+---
+
+![Output 1](screenshots/Output1.png)
+
+---
+
+![Output 2](screenshots/Output2.png)
+
+---
+
+![Output 3](screenshots/Output3.png)
+
+---
 
 ## Author
 

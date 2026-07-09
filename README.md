@@ -70,6 +70,12 @@ The application displays:
 - Third-party React libraries
 - UI development with Backpack Design System
 
+## Screenshots
+Preview Output Images
+![Output 1](screenshots/Output 1.png)
+![Output 2](screenshots/Output 2.png)
+![Output 3](screenshots/Output 3.png)
+
 ## Author
 
 **Darsh Sharma**
